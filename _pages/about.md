@@ -37,18 +37,20 @@ My research primarily focuses on the fundamental theories and testing technologi
 
 # 📝 Publications
 
-- *2025.07*, **Multi-Target Flexible Angular Emulation for ISAC Base Station Sensing Test Using a Conductive Amplitude and Phase Matrix Setup: Framework and Experimental Validation**, **IEEE Trans. Antennas Propag.**, **Chunhui Li**, Chengrui Wang, Zhiqiang Yuan, and Wei Fan.
-- *2025.06*, **Subterahertz Radio Channel Emulation With Band-Stitching Scheme: Framework, Resource Optimization, and Validation**, **IEEE Trans. Terahertz Sci. Technol.**, **Chunhui Li**, Zhiqiang Yuan, and Wei Fan.
-- *2025.05*, **Channel Emulation for Dynamic Channel Models With Programmable Turntable in OTA Testing**, **IEEE Antennas Wirel. Propag. Lett.**, Haomin Wang, Yong Li, **Chunhui Li**, Yuhang Guo, and Xiang Zhang.
-- *2025.04*, **Channel Sounding Using Multiplicative Arrays Based on Successive Interference Cancellation Principle**, **IEEE Trans. Antennas Propag.**, Zhangzhang Jiang, Zhiqiang Yuan, **Chunhui Li**, Le Yu, and Wei Fan.
-- *2025.03*, **On Experimental Analysis of Mono-Static 3D UAV RCS for ISAC Channel Modeling**, **Proc. EuCAP**, Zhiqiang Yuan, Le Yu, **Chunhui Li**, and Wei Fan.
-- *2025.03*, **Channel Emulator-Enabled Over-the-Air Testing Platform for Integrated Sensing and Communication Systems: Framework and Experimental Validation**, **IEEE Trans. Instrum. Meas.**, Zhiqin Wang, **Chunhui Li**, Hao Sun, Shangbing Qiao, and Wei Fan.
-- *2025.02*, **A Generalized Wireless Cable Over-the-Air Testing Framework for Arbitrary Field Emulation in Nonanechoic Radio Environment**, **IEEE Antennas Wirel. Propag. Lett.**, **Chunhui Li**, Mengting Li, Zhengpeng Wang, Fengchun Zhang, and Wei Fan.
-- *2025.02*, **Fourier Analysis of the Prefaded Signal Synthesis in MPAC Setup**, **IEEE Open J. Antennas Propag.**, Yilin Ji, **Chunhui Li**, and Wei Fan.
-- *2025.01*, **Experimental Analysis and Modeling of Monostatic AAV RCS for ISAC Channels**, **IEEE Antennas Wirel. Propag. Lett.**, Zhiqiang Yuan, Le Yu, Zhiqin Wang, **Chunhui Li**, Thomas Dallmann, and Wei Fan.
-- *2024.02*, **Efficient Probe Weighting for MIMO OTA Testing Based on Douglas–Rachford Splitting Method**, **IEEE Antennas Wirel. Propag. Lett.**, **Chunhui Li**, Yong Li, and Xiang Zhang.
-- *2023.10*, **A Primal-Dual Interior Point Method for Efficient Probe Weighting in MIMO OTA Testing**, **Proc. ISAP**, **Chunhui Li** and Yong Li.
+## First Author
+- *2025.07*, Multi-Target Flexible Angular Emulation for ISAC Base Station Sensing Test Using a Conductive Amplitude and Phase Matrix Setup: Framework and Experimental Validation, IEEE Trans. Antennas Propag., **Chunhui Li**, Chengrui Wang, Zhiqiang Yuan, and Wei Fan.
+- *2025.06*, Subterahertz Radio Channel Emulation With Band-Stitching Scheme: Framework, Resource Optimization, and Validation, IEEE Trans. Terahertz Sci. Technol., **Chunhui Li**, Zhiqiang Yuan, and Wei Fan.
+- *2025.02*, A Generalized Wireless Cable Over-the-Air Testing Framework for Arbitrary Field Emulation in Nonanechoic Radio Environment, IEEE Antennas Wirel. Propag. Lett., **Chunhui Li**, Mengting Li, Zhengpeng Wang, Fengchun Zhang, and Wei Fan.
+- *2024.02*, Efficient Probe Weighting for MIMO OTA testing based on Douglas–Rachford Splitting Method, IEEE Antennas Wirel. Propag. Lett., **Chunhui Li**, Yong Li, and Xiang Zhang.
+- *2023.10*, A Primal-Dual Interior Point Method for Efficient Probe Weighting in MIMO OTA Testing, Proc. ISAP, **Chunhui Li** and Yong Li.
 
+## Co-authored
+- *2025.05*, Channel Emulation for Dynamic Channel Models With Programmable Turntable in OTA Testing, IEEE Antennas Wirel. Propag. Lett., Haomin Wang, Yong Li, **Chunhui Li**, Yuhang Guo, and Xiang Zhang.
+- *2025.04*, Channel Sounding Using Multiplicative Arrays Based on Successive Interference Cancellation Principle, IEEE Trans. Antennas Propag., Zhangzhang Jiang, Zhiqiang Yuan, **Chunhui Li**, Le Yu, and Wei Fan.
+- *2025.03*, On Experimental Analysis of Mono-Static 3D UAV RCS for ISAC Channel Modeling, Proc. EuCAP, Zhiqiang Yuan, Le Yu, **Chunhui Li**, and Wei Fan.
+- *2025.03*, Channel Emulator-Enabled Over-the-Air Testing Platform for Integrated Sensing and Communication Systems: Framework and Experimental Validation, IEEE Trans. Instrum. Meas., Zhiqin Wang, **Chunhui Li**, Hao Sun, Shangbing Qiao, and Wei Fan.
+- *2025.02*, Fourier Analysis of the Prefaded Signal Synthesis in MPAC Setup, IEEE Open J. Antennas Propag., Yilin Ji, **Chunhui Li**, and Wei Fan.
+- *2025.01*, Experimental Analysis and Modeling of Monostatic AAV RCS for ISAC Channels, IEEE Antennas Wirel. Propag. Lett., Zhiqiang Yuan, Le Yu, Zhiqin Wang, **Chunhui Li**, Thomas Dallmann, and Wei Fan.
 
 # 🎖 Honors and Awards
 - *2025.01* **Merit Student**, Southeast University.
