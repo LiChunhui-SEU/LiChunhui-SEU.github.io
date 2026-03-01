@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I'm **Chunhui Li**, born in 2000 in the province of Anhui. Currently, I am a Ph.D. student at the National Mobile Communications Research Laboratory, School of Information Science and Engineering, **Southeast University (SEU)**, under the dedicated supervision of **Prof. Wei Fan**. My research focuses on the exciting frontiers of Information and Communication Engineering.
+Hi there! I'm **Chunhui Li (李春辉)** , born in 2000 in the province of Anhui. Currently, I am a Ph.D. student at the National Mobile Communications Research Laboratory, School of Information Science and Engineering, **Southeast University (SEU)**, under the dedicated supervision of **Prof. Wei Fan**. My research focuses on the exciting frontiers of Information and Communication Engineering.
 
-My academic roots trace back to Beijing, where I spent seven transformative years at **BUPT** from 2017 to 2024. I earned both my Bachelor's and Master's degrees there, guided by the invaluable mentorship of **Prof. Yong Li**.Between 2021 and 2023, I also had the privilege of working at the China Academy of Information and Communications Technology (CAICT) as a visiting researcher, co-supervised by Hao Sun and Lei Li. This experience bridge the gap between theoretical research and industry practice for me.
+My academic roots trace back to Beijing, where I spent seven transformative years at **BUPT** from 2017 to 2024. I earned both my Bachelor's and Master's degrees there, guided by the invaluable mentorship of **Prof. Yong Li**.Between 2021 and 2023, I also had the privilege of working at the China Academy of Information and Communications Technology (CAICT) as a visiting researcher, co-supervised by Hao Sun and Lei Li. 
 
-## 🔍 Research Interests
+
 My research primarily focuses on the fundamental theories and testing technologies of future wireless communications:
 
 * **无线信道测量与重构 (Wireless Channel Sounding & Reconstruction)**
@@ -34,21 +34,20 @@ My research primarily focuses on the fundamental theories and testing technologi
 - *2026.03*: &nbsp;🎉🎉 主页构建啦！
 
 
-# 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# 📝 Publications
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- *2025.07*, **Multi-Target Flexible Angular Emulation for ISAC Base Station Sensing Test Using a Conductive Amplitude and Phase Matrix Setup: Framework and Experimental Validation**, **IEEE Trans. Antennas Propag.**, **Chunhui Li**, Chengrui Wang, Zhiqiang Yuan, and Wei Fan.
+- *2025.06*, **Subterahertz Radio Channel Emulation With Band-Stitching Scheme: Framework, Resource Optimization, and Validation**, **IEEE Trans. Terahertz Sci. Technol.**, **Chunhui Li**, Zhiqiang Yuan, and Wei Fan.
+- *2025.05*, **Channel Emulation for Dynamic Channel Models With Programmable Turntable in OTA Testing**, **IEEE Antennas Wirel. Propag. Lett.**, Haomin Wang, Yong Li, **Chunhui Li**, Yuhang Guo, and Xiang Zhang.
+- *2025.04*, **Channel Sounding Using Multiplicative Arrays Based on Successive Interference Cancellation Principle**, **IEEE Trans. Antennas Propag.**, Zhangzhang Jiang, Zhiqiang Yuan, **Chunhui Li**, Le Yu, and Wei Fan.
+- *2025.03*, **On Experimental Analysis of Mono-Static 3D UAV RCS for ISAC Channel Modeling**, **Proc. EuCAP**, Zhiqiang Yuan, Le Yu, **Chunhui Li**, and Wei Fan.
+- *2025.03*, **Channel Emulator-Enabled Over-the-Air Testing Platform for Integrated Sensing and Communication Systems: Framework and Experimental Validation**, **IEEE Trans. Instrum. Meas.**, Zhiqin Wang, **Chunhui Li**, Hao Sun, Shangbing Qiao, and Wei Fan.
+- *2025.02*, **A Generalized Wireless Cable Over-the-Air Testing Framework for Arbitrary Field Emulation in Nonanechoic Radio Environment**, **IEEE Antennas Wirel. Propag. Lett.**, **Chunhui Li**, Mengting Li, Zhengpeng Wang, Fengchun Zhang, and Wei Fan.
+- *2025.02*, **Fourier Analysis of the Prefaded Signal Synthesis in MPAC Setup**, **IEEE Open J. Antennas Propag.**, Yilin Ji, **Chunhui Li**, and Wei Fan.
+- *2025.01*, **Experimental Analysis and Modeling of Monostatic AAV RCS for ISAC Channels**, **IEEE Antennas Wirel. Propag. Lett.**, Zhiqiang Yuan, Le Yu, Zhiqin Wang, **Chunhui Li**, Thomas Dallmann, and Wei Fan.
+- *2024.02*, **Efficient Probe Weighting for MIMO OTA Testing Based on Douglas–Rachford Splitting Method**, **IEEE Antennas Wirel. Propag. Lett.**, **Chunhui Li**, Yong Li, and Xiang Zhang.
+- *2023.10*, **A Primal-Dual Interior Point Method for Efficient Probe Weighting in MIMO OTA Testing**, **Proc. ISAP**, **Chunhui Li** and Yong Li.
 
 
 # 🎖 Honors and Awards
