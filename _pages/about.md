@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I'm **Chunhui Li (李春辉)** , born in 2000 in the province of Anhui. Currently, I am a Ph.D. student at the National Mobile Communications Research Laboratory, School of Information Science and Engineering, **Southeast University (SEU)**, under the dedicated supervision of **Prof. Wei Fan**. My research focuses on the exciting frontiers of Information and Communication Engineering.
+Hi there! I'm **Chunhui Li (李春辉)** , born in 2000 in the province of Anhui. Currently, I am a Ph.D. student at the National Mobile Communications Research Laboratory, School of Information Science and Engineering, **Southeast University (SEU)**, under the supervision of **Prof. Wei Fan**. My research focuses on the exciting frontiers of Information and Communication Engineering.
 
-My academic roots trace back to Beijing, where I spent seven transformative years at **BUPT** from 2017 to 2024. I earned both my Bachelor's and Master's degrees there, guided by the invaluable mentorship of **Prof. Yong Li**.Between 2021 and 2023, I also had the privilege of working at the China Academy of Information and Communications Technology (CAICT) as a visiting researcher, co-supervised by Hao Sun and Lei Li. 
+My academic roots trace back to Beijing, where I spent seven transformative years at **BUPT** from 2017 to 2024. I earned both my Bachelor's and Master's degrees there, guided by the mentorship of **Prof. Yong Li**. Between 2021 and 2023, I also had the privilege of working at the China Academy of Information and Communications Technology (CAICT) as a visiting researcher, co-supervised by Hao Sun and Lei Li. 
 
 
 My research primarily focuses on the fundamental theories and testing technologies of future wireless communications:
